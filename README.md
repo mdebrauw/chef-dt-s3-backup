@@ -1,6 +1,6 @@
 Description
 ===========
-Deploys the backup script from https://github.com/zertrin/duplicity-backup
+Deploys the backup script from https://github.com/zertrin/duplicity-backup with all it's dependencies and configures encryption based on databag settings.
 
 Requirements
 ============
